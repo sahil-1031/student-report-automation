@@ -1,0 +1,5 @@
+# Automated Student Report Generator - Dependencies
+
+pandas==2.3.3
+reportlab==4.4.9
+python-dotenv==1.2.1
